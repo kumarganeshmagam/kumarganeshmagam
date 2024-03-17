@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumarganeshmagam
 - 👀 I’m interested in learning and creating new projects to make my life easier.
-- 🌱 I’m currently learning ruby, python, java script, aws.
+- 🌱 I’m currently learning nodejs, python, devOps and AI.
 - 💞️ I’m looking to collaborate on virtual assistant that can easily deployed in any platform and transforms to user needs.
 - 📫 How to reach me mail me on kumarganeshmagam@gmail.com.
 
